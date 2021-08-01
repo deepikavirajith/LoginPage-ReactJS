@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "userId": "salesman@random.com",
+      "password": "123test"
+    },
+    {
+      "id": 1,
+      "userId": "dealership@alwaysAvailable.com",
+      "password": "test123"
+    }
+   
+  ]
+}
